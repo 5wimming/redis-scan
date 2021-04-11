@@ -12,3 +12,10 @@ python3 redis_scan.py -u
 ```
 python3 redis_scan.py -w
 ```
+
+
+How does it work：
+
+Password Spraying/密码喷洒
+
+Multithreading/多线程
